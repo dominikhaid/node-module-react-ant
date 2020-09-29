@@ -1,5 +1,5 @@
 [{
 "file":"./src/pages/_app.js",
 "selector":false,
-"replacemant":"\nimport '../bootstrap/antd.less';\n"
+"replacemant":"\nimport '../ant/ant.less';\n"
 }]
