@@ -1,4 +1,4 @@
 module.exports = {
   server: 'next',
-  webpack: false
+  webpack: false,
 };
